@@ -46,13 +46,13 @@ To determine the optimal value of **k**, we plotted the **F1 Macro Score** acros
 
 We visualize decision boundaries to better understand how the k-NN model distinguishes between classes.
 
-### 🌿 Petal Length vs Petal Width
+### 🌿 Petal Width vs Petal Length
 
 ![Decision Boundary 1](./decisionboundaryone.png)
 
 ---
 
-### 🌿 Sepal Length vs Petal Length
+### 🌿 Petal Length vs Sepal Length 
 
 ![Decision Boundary 2](./decisionboundarytwo.png)
 
