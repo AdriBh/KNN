@@ -38,7 +38,7 @@ The task is to predict the **species** of iris flowers based on these measuremen
 
 To determine the optimal value of **k**, we plotted the **F1 Macro Score** across different values of `k`. Based on the curve below, the best performance is achieved at **k = 7**.
 
-![Validation Curve](./Screenshot 2025-06-03 181952.png)
+![Validation Curve](./optimalk.png)
 
 ---
 
