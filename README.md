@@ -38,7 +38,7 @@ The task is to predict the **species** of iris flowers based on these measuremen
 
 To determine the optimal value of **k**, we plotted the **F1 Macro Score** across different values of `k`. Based on the curve below, the best performance is achieved at **k = 7**.
 
-![Validation Curve](./images/c419c3f7-bb29-434b-9e4e-e2ee9ec37ddf.png)
+![Validation Curve](./Screenshot 2025-06-03 181952.png)
 
 ---
 
@@ -48,19 +48,19 @@ We visualize decision boundaries to better understand how the k-NN model disting
 
 ### 🌿 Sepal Length vs Petal Length
 
-![Decision Boundary 1](./images/decisionboundaryone.png)
+![Decision Boundary 1](./decisionboundaryone.png)
 
 ---
 
 ### 🌿 Petal Length vs Petal Width
 
-![Decision Boundary 2](./images/decisionboundarytwo.png)
+![Decision Boundary 2](./decisionboundarytwo.png)
 
 ---
 
 ### 🌿 PCA-Transformed Features
 
-![PCA Decision Boundary](./images/PCADecisionLine.png)
+![PCA Decision Boundary](./PCADecisionLine.png)
 
 ---
 
